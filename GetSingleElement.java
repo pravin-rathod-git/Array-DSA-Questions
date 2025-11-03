@@ -3,7 +3,7 @@ public class GetSingleElement {
         int n=arr.length;
         int xor=0;
         for(int i=0;i<n;i++){
-            xor=xor^arr[i];
+            xor=xor^arr[i];//xor to get the single element
         }
         return xor;
     }
