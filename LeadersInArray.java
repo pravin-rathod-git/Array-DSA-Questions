@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
+
 public class LeadersInArray {
 
     // Function to find all leader elements in the array
