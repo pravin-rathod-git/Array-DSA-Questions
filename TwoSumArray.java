@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class TwoSumArray {
 
     // Method to find indices of two numbers that add up to a given target (k)
