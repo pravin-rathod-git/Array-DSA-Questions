@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class MergeOverlappingIntervals {
 
     // Function to merge all overlapping intervals
