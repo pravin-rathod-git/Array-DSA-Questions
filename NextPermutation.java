@@ -1,3 +1,4 @@
+
 public class NextPermutation {
     public static int[] NextPermutationNum(int arr[]){
         int n=arr.length;
