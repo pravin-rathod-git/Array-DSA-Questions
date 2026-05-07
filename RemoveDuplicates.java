@@ -1,4 +1,5 @@
 // Method to remove duplicates from a sorted array in-place
+
 public static int RemoveDuplicatesFromArray(int arr[]) {
     int n = arr.length;
 
