@@ -1,4 +1,5 @@
 // Function to left-rotate an array by k positions
+
 public static int[] RotateArray(int arr[], int k) {
     int n = arr.length;
 
