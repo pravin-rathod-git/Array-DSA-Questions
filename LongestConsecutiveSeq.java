@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class LongestConsecutiveSeq {
 
     // Function to find the length of the longest consecutive sequence
